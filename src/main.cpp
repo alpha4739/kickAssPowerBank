@@ -50,7 +50,7 @@ float cell3AverageV = 0.00;
 float cell4AverageV = 0.00;
 float totalV = 0.00;
 
-// float balanceVal = 4.20; FUTURE CELL BALANCER
+// float balanceVal = 4.20v; FUTURE CELL BALANCER
 
 int zenerVal = 0;
 int cell1Val = 0;
