@@ -59,7 +59,7 @@ int cell3Val = 0;
 int cell4Val = 0;
 int averages = 100;
 
-/* FUTURE CELL BALANCER
+/* FUTURE CELL BALANCER v2
 int cell1Bal = 2;
 int cell1Bal = 3;
 int cell1Bal = 4;
